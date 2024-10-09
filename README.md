@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, i'm Ilya 👋
+I'm a second year student of the Faculty of Information Technologies of  Belarussian State Technological Univercity and a nocive Software Developer :man_technologist:
+📫 How to reach me:
 <!--
 **Manmadeeers/Manmadeeers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
