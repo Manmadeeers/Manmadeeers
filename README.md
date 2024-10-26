@@ -1,6 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Manmadeeers&show_icons=true&count_private=true&theme=dracula" style="width:100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manmadeeers&theme=dracula" style="width:50%">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Manmadeeers">
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Manmadeeers)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Manmadeeers/Manmadeeers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
