@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Manmadeeers&show_icons=true&count_private=true&theme=dracula" style="width:100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manmadeeers&theme=dracula" style="width:50%">
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](github.com/KOI-Software/BSTU_Schedule)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](github.com/KOI-Software/BSTU_Schedule/)
 
 
 
