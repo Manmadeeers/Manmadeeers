@@ -1,4 +1,4 @@
-<h1 style="display:inline-block,text-align:center,width:100%">Hi there, I'm Ilya :wave:</h1>
+<h1 style="">Hi there, I'm Ilya :wave:</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Manmadeeers&show_icons=true&count_private=true&theme=dracula" style="width:100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manmadeeers&theme=dracula&layout=compact" style="width:100%">
 
