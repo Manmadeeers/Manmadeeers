@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Manmadeeers&show_icons=true&count_private=true&theme=gradient&layout=pie" style="width:100%">
+<img src="https://github-readme-stats.vercel.app/api?username=Manmadeeers&show_icons=true&count_private=true&theme=dracula" style="width:100%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmadeeers&theme=dark&layout=pie)
 
