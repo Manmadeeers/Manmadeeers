@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manmadeeers&show_icons=true&count_private=true&theme=dark&layout=pie&margin=100%)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manmadeeers&show_icons=true&count_private=true&theme=dark&layout=pie&margin=100px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmadeeers&theme=dark&layout=pie)
 
 
